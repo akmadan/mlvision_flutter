@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "378900558082",
+    "firebase_url": "https://lifeai-425b3.firebaseio.com",
+    "project_id": "lifeai-425b3",
+    "storage_bucket": "lifeai-425b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378900558082:android:8437e1c9c57bd3fe1f521b",
+        "android_client_info": {
+          "package_name": "com.ai.lifeai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378900558082-uslcincn09fv40eemrjaa8bt0ioh9421.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACf1QxeeGuCo-qCfjwo7OuEMCoIekBm94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378900558082-uslcincn09fv40eemrjaa8bt0ioh9421.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
